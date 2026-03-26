@@ -8,7 +8,7 @@ metadata:
   annotations:
     github.com/project-slug: Backstage-GoldenImage/test-node1
     backstage.io/techdocs-ref: dir:.
-    jenkins.io/job-full-name: Backstage_GoldenImage/test-node1/main
+    jenkins.io/job-full-name: Backstage_GoldenImage/Test-Node1/main
     argocd/app-name: test-node1
     backstage.io/kubernetes-id: test-node1
     backstage.io/kubernetes-namespace: default
